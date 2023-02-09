@@ -18,6 +18,8 @@ This is a simple project....
 
 ## How To Contribute
 
+Please fork this repos
+
 ## CopyRight
 
 2023 Git Training
