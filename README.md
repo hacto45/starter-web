@@ -6,7 +6,7 @@ This is a simple website project for showing how to use Git and Github together.
 ## Introduction
 
 This is example to show diff parts of the Git repos and various commands using a web prject
-Adding new line for rebasing example
+Adding new line for rebasing example, then more changes from myfeature branch
 
 ## Purpose
 
